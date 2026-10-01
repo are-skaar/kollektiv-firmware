@@ -2,9 +2,9 @@
   "product": "kollektiv",
   "hardware": "E32R35T",
   "update_available": true,
-  "version": "1.5.3",
-  "size": 1429424,
-  "sha256": "da36df64889f10e418228798047c6b62908c670cef27a74cab7742b52377939d",
-  "url": "https://github.com/are-skaar/kollektiv-firmware/releases/download/v1.5.3/kollektiv-E32R35T.bin",
-  "signature": "kpPq8BcPA0/erVa31RD81VVKjWtYufJvRhXTnwjtj6+AjBEp28jbAmM9Wcnx/UT9SbIELgosssEjNzPuu7JhtUj+MYGHMxAmwrn8MR6GMa/8AyCuBspS1sAK6Xcx4P1C55KSksIKx/rsQS0RYK5DprZV5xLK236tIHutEH3CdFsKgFE1SqsuLmgPTrkkS8Wz/Fs4BsapQeDejHjCnTtivbDiyWdxXcpp577DkWPIc5yth2Kol/x75mGqnmEK7y+1bu0D2k2HjaGiEcY54qcte9P+gysB6SGOwVqGHpGIGoSJ3pJUKjYfk+OK3Rh0AmQ0jfAw4Ag5U5gIxJUaol4Slg=="
+  "version": "1.5.4",
+  "size": 1429168,
+  "sha256": "73c42d652fe1289fee1196b81c1481af56f53af15ef8bb979f790a16b5a79cee",
+  "url": "https://github.com/are-skaar/kollektiv-firmware/releases/download/v1.5.4/kollektiv-E32R35T.bin",
+  "signature": "T/b0VrWuPrkH076fqqcmxHUzoRX1FvZlWR94s2snwtVb1XWo2bJasOpFIp5nIg/MHzruJZivs22wLlHy5xINHVDUL6V9qg+Th6qpDA4bX/Zl4DriEsCzuP4nptY17U5AzzXG4Vr6XzDEuiChIIqBumg2qVBHRDZv3LpVBgGg3YbucYIJveO4WAp9rfsZh4qD7+O7dArwuWUlJjQpZBbSM6S0cC4jfUdMFCz+7Yqh42m1w+5zcdPqj4CEHU81GpEywXEuMd8EvhDn/L4FcGufFc4fVx/Fk903l1nODArQEUV0FPUXkhDRQPEZc/Iasu1FqmhaHgLaC5nErj1NrsKXrg=="
 }
