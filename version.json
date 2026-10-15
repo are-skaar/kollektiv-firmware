@@ -2,9 +2,18 @@
   "product": "kollektiv",
   "hardware": "E32R35T",
   "update_available": true,
-  "version": "1.5.9",
-  "size": 1430544,
-  "sha256": "1fb281f0e13b20c989e995d8b2a296eed369a3adc6f1a27c15ea300a788a2b55",
-  "url": "https://github.com/are-skaar/kollektiv-firmware/releases/download/v1.5.9/kollektiv-E32R35T.bin",
-  "signature": "WfYstNmxIdQZ4R6L/RDM2ovhdGElw4EkvEDXmnGL7vpThiVvcQ8dGgG4gXC14h03G+iDF+512Da1pUruKlLsx1UvMsFSzVp++wOrhGHmTIexNrJ15TnmmFLeD6ZLiWOUkMV8a4Y3xaI6vW03f9Gv+Q6A5p0MwEOuRhRKmmmCvR3S+pcA36VZN0pWzAK9M+JhAUGCM9uaUd752L0qLMBKfrPYiGcZBvzDAX+Djw6MUCWyZCV3JWe+TfoHpMcKSKnomNdqksA3skj3uOQqEkfH8JyeKHXZzLFHWdtfVJxXIHaLnm4MGVmhRyds+86iVj4x/NhP9OvBGXMlQ/b/eOKLXQ=="
+  "version": "1.5.11",
+  "size": 1442016,
+  "sha256": "0c859c00f53fb792d280d6f1cdda451d055a6dc85b2b50e8f122c6430da11338",
+  "url": "https://github.com/are-skaar/kollektiv-firmware/releases/download/v1.5.11/kollektiv-E32R35T.bin",
+  "signature": "ky/SFBPrhMerGqfZGpWIALPEkl9lE5Pgn6r/94l/v9X43r2+98PN5MljJWUfmkZ0t87fhAGoOCWK8ZpeYvWBOzyzioFozqNnG9ZYtqtxD2aATx0bnoGk+W842DqeAFP3jbPurZsK5chM+xIj/pzNmDNy0rdLRyfUGcSLfNP/bZGXEZZagd1xmn6amkktTfzI3T6yvC3Cg5bxy8BmN9ByoL42dGBuWl129msVCcdPtTnGsmUizq/wfZSZ2YQA1nxH4AeDrFfTbxnEhzg9vi3bAo8Bioa83Vih6pGDLpdWhevBD9z+gk54h+BHYcHTaUMEYrVguU8jV5NV5P6fAeT78A=="
+  "release_notes": [
+    "Forbedret pulserende sanntidsindikator",
+    "Gul indikator for planlagte avganger",
+    "Mer stabil kommunikasjon med Entur",
+    "Varsel ved utdaterte data",
+    "Release notes i OTA-menyen",
+    "Diverse mindre bugfixer og forbedringer",
+    "Minneoptimaliseringer ved JSON parsing"
+  ]
 }
