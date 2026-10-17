@@ -2,18 +2,19 @@
   "product": "kollektiv",
   "hardware": "E32R35T",
   "update_available": true,
-  "version": "1.5.11",
-  "size": 1442016,
-  "sha256": "0c859c00f53fb792d280d6f1cdda451d055a6dc85b2b50e8f122c6430da11338",
-  "url": "https://github.com/are-skaar/kollektiv-firmware/releases/download/v1.5.11/kollektiv-E32R35T.bin",
-  "signature": "ky/SFBPrhMerGqfZGpWIALPEkl9lE5Pgn6r/94l/v9X43r2+98PN5MljJWUfmkZ0t87fhAGoOCWK8ZpeYvWBOzyzioFozqNnG9ZYtqtxD2aATx0bnoGk+W842DqeAFP3jbPurZsK5chM+xIj/pzNmDNy0rdLRyfUGcSLfNP/bZGXEZZagd1xmn6amkktTfzI3T6yvC3Cg5bxy8BmN9ByoL42dGBuWl129msVCcdPtTnGsmUizq/wfZSZ2YQA1nxH4AeDrFfTbxnEhzg9vi3bAo8Bioa83Vih6pGDLpdWhevBD9z+gk54h+BHYcHTaUMEYrVguU8jV5NV5P6fAeT78A==",
+  "version": "1.5.13",
+  "size": 1451008,
+  "sha256": "fff679af51680b54f17df4478c9d8879ea0a3d62e688937c131a436fad4bfb3f",
+  "url": "https://github.com/are-skaar/kollektiv-firmware/releases/download/v1.5.13/kollektiv-E32R35T.bin",
+  "signature": "kCQp28dK82Tcg+DLg4Vm5unmDqCByauxuDIa9nnhya3vehz0TclV/f9fyiFbutu5b0yZiADAG3ibeb0WYWWNPct31XF0PDQgmX6/QWQrnSnzdyjsj2se+loVxk6jh3YxDfjAS+Fb4s4l7gtDkfv2oVbwJdO0ACNvoHKfe2LmvjXnBT451ZIvaByo7cMlUsvvBMskbKqRWMYaHZZCJ6Nw2Xn+HlZranAB7PZuv79vS+BWN8Pvuqv9pLFp6GcQ+4uqY4yw94cJ9aiwq9RZCHu6/cJUZEVa12brBAQQg/qYvHkXkmsmcPx+Vvw3bQMAKkcRXZf/jMty+wbukcIW6neZ/A==",
   "release_notes": [
-    "Forbedret pulserende sanntidsindikator",
-    "Gul indikator for planlagte avganger",
-    "Mer stabil kommunikasjon med Entur",
-    "Varsel ved utdaterte data",
-    "Release notes i OTA-menyen",
-    "Diverse mindre bugfixer og forbedringer",
-    "Minneoptimaliseringer ved JSON parsing"
+    "Nedtellingen oppdateres lokalt mellom hentingene fra Entur.",
+    "Mindre omtegning og roligere skjermoppdateringer.",
+    "Utløpte avganger fjernes også ved nettverksfeil.",
+    "Jevn scrollhastighet uavhengig av tekstlengde.",
+    "Korte enkeltvarsler vises uten rulling.",
+    "Lange destinasjoner forkortes før tidsfeltet.",
+    "Valgfri nattlysstyrke med eget tidsrom og lysnivå.",
+    "Engelske diagnosetekster under System."
   ]
 }
